@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kiron
 - 👀 I’m interested in web design and development
-- 🌱 I’m currently working in vuejs for frontend and nodejs for backend
+- 🌱 I’m currently working in VueJs,ReactJs for frontend and nodejs for backend
 
 
 <!---
